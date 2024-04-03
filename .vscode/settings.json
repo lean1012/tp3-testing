@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "ble_format.h": "c",
+    "ble_routing.h": "c",
+    "ble_net.h": "c",
+    "ble_app.h": "c",
+    "errno.h": "c",
+    "array": "c",
+    "string": "c",
+    "string_view": "c",
+    "ble_mesh.h": "c",
+    "system_error": "c",
+    "ble_conn.h": "c",
+    "mesh_conn.h": "c"
+  }
+}
